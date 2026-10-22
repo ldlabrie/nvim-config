@@ -1,0 +1,25 @@
+{
+    "name": "Custom GNOME DARKER theme",
+    "background": "#181818",
+    "foreground": "#E4E4EF",
+    "cursorColor": "#E4E4EF",
+    "selectionBackground": "#555753",
+
+    "black": "#2E3436",
+    "red": "#A40000",
+    "green": "#4E9A06",
+    "yellow": "#C4A000",
+    "blue": "#3465A4",
+    "purple": "#75507B",
+    "cyan": "#CE5C00",
+    "white": "#BABDB9",
+
+    "brightBlack": "#555753",
+    "brightRed": "#EF2929",
+    "brightGreen": "#8AE234",
+    "brightYellow": "#FCE94F",
+    "brightBlue": "#729FCF",
+    "brightPurple": "#AD7FA8",
+    "brightCyan": "#FCAF3E",
+    "brightWhite": "#EEEEEC"
+}
